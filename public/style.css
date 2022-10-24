@@ -1,0 +1,25 @@
+body {
+  background-color: grey;
+}
+
+#infoSection {
+  position:absolute;
+  display:inline-block;
+  text-align: center;
+  top: 10em;
+  right: 1em;
+}
+
+#songSection {
+  position:absolute;
+  display:inline-block;
+  top: 0px;
+  left: 0px;
+}
+
+h3 {
+  color: blue;
+}
+
+
+
