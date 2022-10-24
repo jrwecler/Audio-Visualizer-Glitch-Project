@@ -1,0 +1,29 @@
+body {
+    background-color: #25C0CC;
+    font-family: Montserrat, sans-serif;
+  }
+  
+  #infoSection {
+    position:absolute;
+    display:inline-block;
+    text-align: right;
+    top: 8em;
+    right: 1em;
+  }
+  
+  #songSection {
+    position:absolute;
+    display:inline-block;
+    top: 0px;
+    left: 0px;
+  }
+  
+  h3 {
+    color: blue;
+  }
+  
+  img {
+    box-shadow: 0 30px 40px rgba(0,0,0,.5);
+  }
+  
+  
